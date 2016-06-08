@@ -1,0 +1,39 @@
+	
+
+	title{
+			color: white;
+	}
+	  
+	body {
+		 	border: 15 15 15 15;
+		  	text-align: center;
+		  	color: white;
+		  	background: red;
+		  	background-image: url("http://data.whicdn.com/images/70091932/original.jpg");
+		    background-repeat: no-repeat;
+		    background-size: cover;
+
+	}
+	.yourWeightInSpace {
+			font-color: white;
+
+
+	}
+
+
+	h1 {
+		  	font-size: 72px;
+		  	color: white;
+	}
+
+	header {
+				background-image: url("http://data.whicdn.com/images/70091932/original.jpg");
+		  		/*background-color: red;   DONT ERASE*/
+		 	 	font-size: 50px;
+		 	 	font-color: white;
+	}
+
+	p {
+			  	font-size: 35px;
+			  	font-color: white ;
+	}
